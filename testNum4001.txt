@@ -1,1 +1,3 @@
 try to upload file to anther repo
+
+successfully get this file by using remote command "git clone"
